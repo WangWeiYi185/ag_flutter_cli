@@ -1,0 +1,17 @@
+{
+  "name": "guang-flutter-cli",
+  "version": "1.0.0",
+  "description": "aiguang flutter cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "guang"
+  },
+  "author": "wangweiyi",
+  "license": "ISC",
+  "bin": {
+    "dove": "./dove.js"
+  },
+  "dependencies": {
+    "commander": "^5.1.0"
+  }
+}
